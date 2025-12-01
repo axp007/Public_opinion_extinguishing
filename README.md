@@ -7,7 +7,7 @@
 
 ### 1. 主页面
 
-![image-20251201154221246](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20251201154221246.png)
+![img](https://ai.feishu.cn/space/api/box/stream/download/asynccode/?code=MzkwZDM1YjJhZDA1MTllOGUwNzdhNmZmYmM3NTVkNWVfWlJRMTF1RFdnaFp4aW92NmtqalhSakJTVHpkY0xmNkZfVG9rZW46S3pxTmIyb3hSb2dGOHB4ZkNhdWNCWlFrblNHXzE3NjQ1NzU0NzM6MTc2NDU3OTA3M19WNA)
 
 ### 2. 实时舆情监控页面
 
